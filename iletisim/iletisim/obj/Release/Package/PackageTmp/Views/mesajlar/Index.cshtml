@@ -1,0 +1,32 @@
+﻿@using iletisim.Models.Entity
+@model List<tbliletisim>
+
+<h2>Gelenler</h2>
+
+@*@using sepetteYemek.Models.siniflar
+    @model List<personel>*@
+
+<table class="table table-bordered" style="margin-top:20px">
+        <tr>
+            <th>ad soyad</th>
+            <th>mail</th>
+            <th>konu</th>
+            <th>mesaj</th>
+
+        </tr>
+        @foreach (var k in Model)
+        {
+            <tr>
+                <td>@k.adSoyad</td>
+                <td>@k.mail</td>
+                <td>
+                   @k.konu
+                </td>
+                <td>@k.mesaj</td>
+
+            </tr>
+        }
+
+    </table>
+
+

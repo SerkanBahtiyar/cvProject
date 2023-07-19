@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="iletisimModelStoreContainer" CdmEntityContainer="iletisimEntities1">
+    <EntitySetMapping Name="tbladmin">
+      <EntityTypeMapping TypeName="iletisimModel.tbladmin">
+        <MappingFragment StoreEntitySet="tbladmin">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="kullanıcıadi" ColumnName="kullanıcıadi" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbliletisim">
+      <EntityTypeMapping TypeName="iletisimModel.tbliletisim">
+        <MappingFragment StoreEntitySet="tbliletisim">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="adSoyad" ColumnName="adSoyad" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="konu" ColumnName="konu" />
+          <ScalarProperty Name="mesaj" ColumnName="mesaj" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\serka\OneDrive\Masaüstü\proje</_PublishTargetUrl>
+    <History>True|2023-07-19T12:32:49.9863870Z;True|2023-07-18T19:04:14.2949567+03:00;True|2023-07-18T02:52:01.7988120+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/23/2017 13:15:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/23/2017 13:15:20</publishTime>
+    </File>
+    <File Include="bin/iletisim.dll">
+      <publishTime>07/19/2023 15:32:45</publishTime>
+    </File>
+    <File Include="bin/iletisim.pdb">
+      <publishTime>07/19/2023 15:32:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>05/27/2022 23:39:10</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/27/2022 23:41:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/27/2022 23:42:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 14:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/27/2022 23:42:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>05/27/2022 23:42:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>05/27/2022 23:42:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>05/27/2022 23:42:50</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/23/2014 12:57:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>07/18/2023 00:18:19</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Models/Entity/Model1.edmx.diagram">
+      <publishTime>07/18/2023 00:46:03</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>07/18/2023 00:18:18</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>07/18/2023 00:18:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.js">
+      <publishTime>07/18/2023 00:18:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.js">
+      <publishTime>07/18/2023 00:18:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.map">
+      <publishTime>07/18/2023 00:18:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.js">
+      <publishTime>07/18/2023 00:18:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.js">
+      <publishTime>07/18/2023 00:18:21</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.map">
+      <publishTime>07/18/2023 00:18:21</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>07/18/2023 00:18:37</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>07/18/2023 00:18:37</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>07/18/2023 00:18:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>07/18/2023 00:18:38</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>07/18/2023 00:18:34</publishTime>
+    </File>
+    <File Include="serkan/css/aos.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap-icons/bootstrap-icons.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap-icons/bootstrap-icons.json">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap-icons/fonts/bootstrap-icons.woff">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap-icons/fonts/bootstrap-icons.woff2">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap-icons/index.html">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/bootstrap.min.css.map">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/all.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/all.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/brands.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/brands.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/fontawesome.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/fontawesome.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/regular.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/regular.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/solid.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/solid.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/svg-with-js.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/svg-with-js.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/v4-shims.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/css/v4-shims.min.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/LICENSE.txt">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-brands-400.eot">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-brands-400.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-brands-400.ttf">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-brands-400.woff">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-brands-400.woff2">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-regular-400.eot">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-regular-400.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-regular-400.ttf">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-regular-400.woff">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-regular-400.woff2">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-solid-900.eot">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-solid-900.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-solid-900.ttf">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-solid-900.woff">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/font-awesome/webfonts/fa-solid-900.woff2">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/css/main.css">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/favicon.ico">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/building_websites.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/creative-team.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/development.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/hello.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/hello2.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/hello3.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/hello4.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/website-app.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/work-chat.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/illustrations/work-together.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/marker.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/1-small.png">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/1.jpg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/2-small.png">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/2.jpg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/6-small.png">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/6.jpg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/7-small.png">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/portfolio/7.jpg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/services/app-development.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/services/full-stack.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/services/graphic-design.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/services/ui-ux.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/services/web-design.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/images/wave-bg.svg">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/index.html">
+      <publishTime>07/19/2023 15:30:38</publishTime>
+    </File>
+    <File Include="serkan/scripts/aos.min.js">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/scripts/BigPicture.min.js">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/scripts/bootstrap.bundle.min.js">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/scripts/bootstrap.bundle.min.js.map">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/scripts/imagesloaded.pkgd.min.js">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/scripts/main.js">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/scripts/masonry.pkgd.min.js">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/scripts/purecounter.min.js">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/config">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/description">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/HEAD">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/applypatch-msg.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/commit-msg.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/fsmonitor-watchman.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/post-update.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/pre-applypatch.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/pre-commit.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/pre-merge-commit.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/pre-push.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/pre-rebase.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/pre-receive.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/prepare-commit-msg.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/push-to-checkout.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/sendemail-validate.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/hooks/update.sample">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="serkan/web/.git/info/exclude">
+      <publishTime>07/18/2023 00:35:40</publishTime>
+    </File>
+    <File Include="Views/Default/ilet.cshtml">
+      <publishTime>07/18/2023 01:49:07</publishTime>
+    </File>
+    <File Include="Views/Default/Index.cshtml">
+      <publishTime>07/18/2023 00:39:15</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Views/mesajlar/Index.cshtml">
+      <publishTime>07/18/2023 01:41:58</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>07/18/2023 00:18:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/18/2023 19:04:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
